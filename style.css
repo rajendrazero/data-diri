@@ -351,14 +351,14 @@ span{
 } 
 
 .food img, .food a{
-  margin-left: 0.1rem;
+  margin-left: 0.4rem;
   width: 48vh;
 }
 
 .food{
   padding-top: 10rem;
   padding-bottom: 8rem;
-  width: 50vh;
+  width: 20.5rem;
 }
 
 footer{
