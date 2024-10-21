@@ -351,8 +351,8 @@ span{
 } 
 
 .food img, .food a{
-  margin-left: 0.2rem;
-  width: 50vh;
+  margin-left: 0.1rem;
+  width: 48vh;
 }
 
 .food{
@@ -379,4 +379,4 @@ footer a:hover{
 
 footer small{
   font-size: 80%;
-  }
+}
