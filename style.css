@@ -360,3 +360,23 @@ span{
   padding-bottom: 8rem;
   width: 50vh;
 }
+
+footer{
+  padding: 3rem;
+  background-color: var(--main-color);
+  color: white;
+}
+
+footer a{
+  color: var(--bg);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+footer a:hover{
+  color: white;
+}
+
+footer small{
+  font-size: 80%;
+  }
